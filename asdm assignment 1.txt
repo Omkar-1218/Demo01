@@ -1,0 +1,13 @@
+Hotel management sysytem:-
+
+1.creat/find  7-8  issues/stories:- 
+Reservation.
+Front-desk operations.
+Channel management.
+Revenue management.
+Housekeeping.
+CRM and customer data management.
+Reports and analytics.
+Back-office management.
+
+2. start project planning
